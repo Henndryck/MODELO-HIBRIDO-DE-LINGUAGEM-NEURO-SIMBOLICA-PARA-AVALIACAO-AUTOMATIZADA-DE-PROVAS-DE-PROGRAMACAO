@@ -1,0 +1,9 @@
+{
+    "raciocinio": "O código foi rejeitado automaticamente pela análise estática. Motivo: VIOLAÇÕES DETECTADAS: Uso da função proibida 'sort()'",
+    "nota_final": 0.0,
+    "pontos_positivos": [],
+    "pontos_negativos": [
+        "VIOLAÇÕES DETECTADAS: Uso da função proibida 'sort()'"
+    ],
+    "feedback": "Seu código não pôde ser avaliado. Erro estrutural grave: VIOLAÇÕES DETECTADAS: Uso da função proibida 'sort()'"
+}

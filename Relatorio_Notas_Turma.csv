@@ -1,0 +1,6 @@
+﻿Arquivo;Nota;Status AST;Feedback Resumido
+caso1_correto.py;10,0;OK; 
+caso2_logica.py;8,0;OK; 
+caso3_sintaxe.py;0,0;VIOLAÇÃO;Seu código não pôde ser avaliado. Erro estrutural grave: ERRO CRÍTICO: Código com erro de sintaxe (não compila).
+caso4_burlar.py;0,0;VIOLAÇÃO;Seu código não pôde ser avaliado. Erro estrutural grave: VIOLAÇÕES DETECTADAS: Uso da função proibida 'sort()'
+caso5_tema.py;0,0;OK;A função 'ordenar_vetor' não está implementando o algoritmo de ordenação, mas sim calculando a média dos elementos do vetor. Para ordenar o vetor, voc

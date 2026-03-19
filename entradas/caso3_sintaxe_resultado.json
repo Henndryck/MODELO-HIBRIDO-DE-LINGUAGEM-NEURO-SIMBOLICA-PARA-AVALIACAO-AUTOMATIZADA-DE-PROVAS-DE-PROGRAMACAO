@@ -1,0 +1,9 @@
+{
+    "raciocinio": "O código foi rejeitado automaticamente pela análise estática. Motivo: ERRO CRÍTICO: Código com erro de sintaxe (não compila).",
+    "nota_final": 0.0,
+    "pontos_positivos": [],
+    "pontos_negativos": [
+        "ERRO CRÍTICO: Código com erro de sintaxe (não compila)."
+    ],
+    "feedback": "Seu código não pôde ser avaliado. Erro estrutural grave: ERRO CRÍTICO: Código com erro de sintaxe (não compila)."
+}

@@ -1,0 +1,3 @@
+Implemente um algoritmo em Python para ordenar um vetor de números inteiros em ordem crescente utilizando o método BUBBLE SORT (Método da Bolha).
+Você deve implementar a lógica de trocas MANUALMENTE, sem função built-in 'sorted' para ordenar o vetor.
+A função deve se chamar 'ordenar_vetor' e retornar a lista ordenada.

@@ -1,0 +1,11 @@
+{
+  "criterios": [
+    { "id": 1, "descricao": "Lógica de Execução", "peso": 10.0 }
+  ],
+  "configuracao_ast": {
+    "proibir_loops": false, 
+    "proibir_recursao": false,
+    "proibir_funcoes_prontas": ["sort", "sorted", "sum", "max"],
+    "exigir_tipagem": false
+  }
+}
